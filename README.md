@@ -73,6 +73,14 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joppa1987/joppa1987/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <div align="center">
 
 💬 **Let's connect** — always open to talking about full stack development, side projects, or new opportunities.
