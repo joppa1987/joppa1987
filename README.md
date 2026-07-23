@@ -3,15 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Paul%20Racherla&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=joppa1987&label=Profile%20Views&color=0e7490&style=flat" alt="profile views" />
 
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Building+scalable%2C+modern+web+applications." alt="Typing intro" />
 
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/john-paul-racherla-200511307/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
