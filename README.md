@@ -3,9 +3,6 @@
 > **Full Stack Software Engineer** • Building scalable, modern web
 > applications
 
-> **Note:** This is a premium starter README personalized with your
-> details. Expand the project sections as your portfolio grows.
-
 ------------------------------------------------------------------------
 
 ```{=html}
