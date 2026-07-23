@@ -30,7 +30,7 @@ about creating performant, secure and elegant web applications.
 -   ⚡ Next.js, React & TypeScript
 -   🎨 UI/UX focused
 -   🔒 Security-minded
--   ☁️ Deploying with Vercel
+-   ☁️ Deploying with Vercel, Netlify, Custom Domains
 -   🚀 Open to Software Engineering opportunities
 
 ------------------------------------------------------------------------
@@ -111,8 +111,6 @@ Personal developer portfolio showcasing projects and skills.
 ```
 
 ## GitHub Stats
-
-> Replace `USERNAME` if needed.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joppa1987&show_icons=true&theme=tokyonight)
 
