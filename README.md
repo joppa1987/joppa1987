@@ -24,8 +24,7 @@
 
 - 🎓 Computing Science graduate (Upper Second Class Honours, 2:1) — **University of Stirling, UAE**
 - 💼 **Full Stack Web Developer** actively looking for new opportunities
-- 🔭 Building a client-side utility bill analysis app (PDF parsing, dashboards, and insights)
-- 🌱 Interested in performance-focused browser-side data processing
+- 🧪  Experience in Software Testing, Backend, and IoT Systems
 - 📫 Reach me at **johnpaulracherla1987@gmail.com**
 
 ---
