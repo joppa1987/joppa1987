@@ -110,28 +110,6 @@ Personal developer portfolio showcasing projects and skills.
 </details>
 ```
 
-------------------------------------------------------------------------
-
-## Current Focus
-
-``` yaml
-Learning:
-  - System Design
-  - WebGL
-  - Advanced Next.js
-
-Building:
-  - Portfolio Website
-  - Church Website
-  - Lyrics Platform
-
-OpenTo:
-  - Software Engineering Roles
-  - Freelance Projects
-```
-
-------------------------------------------------------------------------
-
 ## GitHub Stats
 
 > Replace `USERNAME` if needed.
