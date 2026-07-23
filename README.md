@@ -6,7 +6,6 @@
 ------------------------------------------------------------------------
 
 ```{=html}
-<p align="center">
 ```
 [![Portfolio](https://img.shields.io/badge/Portfolio-jp.vercel.app-6C63FF?style=for-the-badge)](https://jp.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Paul%20Racherla-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-paul-racherla-200511307/)
@@ -14,7 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-joppa1987-181717?style=for-the-badge&logo=github)](https://github.com/joppa1987)
 
 ```{=html}
-</p>
 ```
 
 ------------------------------------------------------------------------
