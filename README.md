@@ -1,128 +1,85 @@
-# John Paul Racherla
+<div align="center">
 
-> **Full Stack Software Engineer** • Building scalable, modern web
-> applications
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Paul%20Racherla&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-------------------------------------------------------------------------
+<br/>
 
-```{=html}
-```
-[![Portfolio](https://img.shields.io/badge/Portfolio-jp.vercel.app-6C63FF?style=for-the-badge)](https://jp.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Paul%20Racherla-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-paul-racherla-200511307/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:johnpaulracherla1987@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-joppa1987-181717?style=for-the-badge&logo=github)](https://github.com/joppa1987)
+<img src="https://komarev.com/ghpvc/?username=joppa1987&label=Profile%20Views&color=0e7490&style=flat" alt="profile views" />
 
-```{=html}
-```
+<br/><br/>
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Building+scalable%2C+modern+web+applications." alt="Typing intro" />
 
-## About Me
+<br/><br/>
 
-I'm **John Paul Racherla**, a Full Stack Software Engineer passionate
-about creating performant, secure and elegant web applications.
+<a href="https://www.linkedin.com/in/john-paul-racherla-200511307/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:johnpaulracherla1987@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://jp.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
--   ⚡ Next.js, React & TypeScript
--   🎨 UI/UX focused
--   🔒 Security-minded
--   ☁️ Deploying with Vercel, Netlify, Custom Domains
--   🚀 Open to Software Engineering opportunities
+</div>
 
-------------------------------------------------------------------------
+---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+- 🎓 Computing Science graduate (Upper Second Class Honours, 2:1) — **University of Stirling**
+- 💼 **Full Stack Web Developer** actively looking for new opportunities
+- 🔭 Building a client-side utility bill analysis app (PDF parsing, dashboards, and insights)
+- 🌱 Interested in performance-focused browser-side data processing
+- 📫 Reach me at **johnpaulracherla1987@gmail.com**
 
-![TS](https://skillicons.dev/icons?i=ts,js,java,html,css)
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### Frontend
+<img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+### Backend & Tools
+<img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Vercel-0B1220?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 
-### Backend & Database
+</div>
 
-![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres)
+---
 
-### Tools
+## 📊 GitHub Insights
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joppa1987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joppa1987&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-## Featured Projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joppa1987&theme=tokyonight&hide_border=true" />
+</div>
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🎵 JLFGM Lyrics Platform`</b>`{=html}
-```{=html}
-</summary>
-```
-Production-ready Telugu Christian lyrics platform with responsive UI,
-search, SEO, analytics and Supabase backend.
+---
 
-  Stack        Next.js, React, TypeScript, Supabase
-  ------------ --------------------------------------
-  Deployment   Vercel
-  Status       Production
+## 🤝 Let’s Connect
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}⛪ JLFGM Church Website`</b>`{=html}
-```{=html}
-</summary>
-```
-Modern church website with responsive UI, ministry pages and optimized
-performance.
+<div align="center">
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}💼 Portfolio Website`</b>`{=html}
-```{=html}
-</summary>
-```
-Personal developer portfolio showcasing projects and skills.
+Open to full-time roles, freelance collaboration, and building useful products with modern web technologies.
 
-```{=html}
-</details>
-```
+</div>
 
-## GitHub Stats
+<br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joppa1987&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joppa1987&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=joppa1987&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-## Connect
-
--   GitHub: https://github.com/joppa1987
--   LinkedIn: https://www.linkedin.com/in/john-paul-racherla-200511307/
--   Portfolio: https://jp.vercel.app
--   Email: johnpaulracherla1987@gmail.com
-
-------------------------------------------------------------------------
-
-> *Building software with purpose, performance and precision.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
